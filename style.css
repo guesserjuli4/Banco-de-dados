@@ -1,0 +1,33 @@
+body{
+   
+}
+header{
+text-align: center;
+    
+}
+.um{
+    display: flex;
+    height: 100px;
+    background-color: aliceblue;
+    text-align: center;
+
+}
+.dois{
+    display: flex;
+}
+.header{
+    margin: auto;
+    text-align: center;
+
+}
+.navlist{
+    display: flex;
+    gap: 50px;
+    margin:auto;
+    justify-content:space-around;
+}
+.card-content{
+    margin: 60px;}
+#gato{
+    width: 100px;
+}
